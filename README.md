@@ -1,2 +1,0 @@
-# Demo
-First Game Demo
